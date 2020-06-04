@@ -1,2 +1,3 @@
-# next-level-week-1
-Repositório do Next Level Week 1
+# Next Level Week Edição 1
+
+Repositório de estudo do Next Level Week 1
